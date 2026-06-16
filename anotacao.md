@@ -14,4 +14,4 @@ git add nomeDoArquivo.js
 
 Quando os arquivos que foram adicionados para a área de preparação são modificados, você verá algumas indicações no VSCode em forma de letras ao lado do nome do arquivo e alguns indicadores de cor ao lado de linhas alteradas.
 
-.
+* significa que vai adicionar todos os itens
